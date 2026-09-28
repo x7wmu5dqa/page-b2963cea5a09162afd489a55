@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.gj40a.cn/sitemap.xml
